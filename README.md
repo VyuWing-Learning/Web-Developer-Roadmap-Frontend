@@ -1,3 +1,4 @@
+# Web Development Roadmap
 
 <p align="center">
   <img width="100" src="https://i.ibb.co/hs6X5BJ/192pixelshomescreen-1.png" alt="VyuWing Learning">
@@ -153,14 +154,13 @@ Suggested Playlist: https://www.youtube.com/watch?v=NCwa\_xi0Uuc
 |Spread operator|<p> <http://curric.rithmschool.com/springboard/exercises/js-rest-spread/solution/index.html></p><p> <https://github.com/joinpursuit/web-curriculum/blob/master/lessons/es6/spread-operator/spread-operator-practice-exercises.md></p><p> https://www.codingame.com/playgrounds/7998/es6-tutorials-spread-operator-with-fun</p>|
 |Classes|https://www.w3resource.com/javascript-exercises/fundamental/index1.php|
 |Modules|https://subscription.packtpub.com/book/web-development/9781789800104/1/ch01lvl1sec11/classes-and-modules|
-#
 
 
-Frontend
+# Frontend
 
-Week 7
+## Week 7
 
-**Package Managers**
+### **Package Managers**
 
 - What are package managers: https://www.youtube.com/watch?v=0W8-3RwvJwc
 - Npm: <https://www.youtube.com/watch?v=2V1UUhBJ62Y>
@@ -171,7 +171,7 @@ Additional Links
 - Best practices of using npm: https://blog.risingstack.com/nodejs-at-scale-npm-best-practices/
 
 
-**Module Bundlers**
+### **Module Bundlers**
 
 - What are module bundlers: <https://www.youtube.com/watch?v=5IG4UmULyoA>
 - Webpack: <https://www.youtube.com/watch?v=GU-2T7k9NfI>
@@ -186,7 +186,7 @@ Webpack practice problems
 
 
 
-**Linters & Formatters**
+### **Linters & Formatters**
 
 - Motivation for Lint check: <https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.1841&rep=rep1&type=pdf>
 - What is ES Lint: <https://eslint.org/docs/about/>
@@ -196,7 +196,7 @@ Webpack practice problems
 
 
 
-Practice Problems
+### Practice Problems
 
 - https://www.linkedin.com/learning/eslint-customizing-styles/using-the-exercise-files-for-this-course?autoAdvance=true&autoSkip=false&autoplay=true&resume=true
 
@@ -204,9 +204,9 @@ Practice Problems
 
 
 
-Week 8
+## Week 8
 
-**Pick a framework**
+### **Pick a framework**
 
 NOTE: For the sake of this roadmap we’ll be beginning out with React JS to set up our foundational understanding of modern day frontend javascript frameworks. This will indeed enable us to later subjectify the choice of frameworks depending on our use cases.
 
@@ -338,10 +338,10 @@ Suggested Playlist: <https://www.coursera.org/learn/sql-data-science?specializat
 |Topic|Topic/Tutorial|Exercises|
 | :-: | :-: | :-: |
 |SQL|<https://www.youtube.com/watch?v=HXV3zeQKqGY&feature=youtu.be><br>(ER Diagrams towards the end of the video are optional)|<p> <https://www.hackerrank.com/domains/sql></p><p> <https://www.w3schools.com/sql/exercise.asp></p><p> <https://towardsdatascience.com/twenty-five-sql-practice-exercises-5fc791e24082></p>|
-|<h1>Week 3: Databases and SQL for Data Science with Python</h1>|String Pattern, Ranges and Operations on Sets<br><https://www.coursera.org/learn/sql-data-science/lecture/UPbqw/using-string-patterns-and-ranges>|<https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/blob/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/quiz%201%20(String%20Patterns%2C%20Ranges%2C%20Sorting%20and%20Grouping).PNG>|
+|Week 3: Databases and SQL for Data Science with Python|String Pattern, Ranges and Operations on Sets<br><https://www.coursera.org/learn/sql-data-science/lecture/UPbqw/using-string-patterns-and-ranges>|<https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/blob/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/quiz%201%20(String%20Patterns%2C%20Ranges%2C%20Sorting%20and%20Grouping).PNG>|
 ||<p>Functions, Multiple Tables and Sub-Queries<br><https://www.coursera.org/learn/sql-data-science/lecture/0bRtQ/built-in-database-functions></p>|<p> Course Lab 1: <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/LAB></p><p> Course Lab 2: <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/LAB%202></p><p> <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/blob/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/quiz%202%20(Functions%2C%20Sub-Queries%2C%20Multiple%20Tables).PNG></p>|
-|<h1>Week 4: Database and SQL for Data Science with Python</h1>|Methods and Tools to access Database with Python |<p> <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/blob/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/quiz%201(Database%20access%20from%20Python).PNG></p><p> Course Lab 1: <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/Hands-on%20LAB%201></p><p> Course Lab2: <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/Hands-on%20LAB%202></p>|
-|<h1>Week 5: Database and SQL for Data Science with Python</h1>|Hands on SQL Experience with Real world Data|<p>Assignment: <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%204/Assignment></p>|
+|Week 4: Database and SQL for Data Science with Python|Methods and Tools to access Database with Python |<p> <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/blob/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/quiz%201(Database%20access%20from%20Python).PNG></p><p> Course Lab 1: <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/Hands-on%20LAB%201></p><p> Course Lab2: <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/Hands-on%20LAB%202></p>|
+|Week 5: Database and SQL for Data Science with Python|Hands on SQL Experience with Real world Data|<p>Assignment: <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%204/Assignment></p>|
 |SQL Project View|Take a Look at the Project Level Implementation of SQL|<p> <https://github.com/samarth-p/College-ERP></p><p> <https://github.com/honza/anosql></p>|
 
 
@@ -365,3 +365,10 @@ Additional Practice Problems:
 - <https://www.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/pp/project-data-dig>
 - <https://www.khanacademy.org/computing/computer-programming/sql/relational-queries-in-sql/pp/project-famous-people> 
 - <https://www.khanacademy.org/computing/computer-programming/sql/modifying-databases-with-sql/pp/project-app-impersonator>
+
+
+## Congrats!
+
+Once you have made till here, you can jump on to working on frontend projects and start applying to frontend roles. Also, do explore different frontend frameworks now and learn about them.
+<br/>
+For those who wanna continue on the journey of web development and want to tackle Backend and Devops too. Stay Tuned!
