@@ -208,7 +208,7 @@ Webpack practice problems
 
 ### **Pick a framework**
 
-<img src="https://i.ibb.co/gjqx4h0/Screenshot-2022-02-21-at-7-47-47-PM.png" alt="comparison table>
+![Comparison Table](https://i.ibb.co/gjqx4h0/Screenshot-2022-02-21-at-7-47-47-PM.png)
 
 NOTE: For the sake of this roadmap we’ll be beginning out with React JS to set up our foundational understanding of modern day frontend javascript frameworks. This will indeed enable us to later subjectify the choice of frameworks depending on our use cases.
 
