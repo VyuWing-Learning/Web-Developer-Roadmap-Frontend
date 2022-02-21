@@ -31,7 +31,7 @@ The roadmap has been carefully and accurately broken down into a step by step ac
 
 - This roadmap assumes that you have a prior understanding of any programming language. 
 
-## Git for Reference
+# Git for Reference
 
 [Suggested Tutorials]: <https://www.youtube.com/watch?v=8JJ101D3knE>
 
@@ -42,12 +42,12 @@ Advanced Git Exercises: <https://www.rithmschool.com/courses/git/git-github-adva
 <https://github.com/nnja/advanced-git/blob/master/exercises/Exercise8-ForksAndRemoteRepos.md>
 
 
-## Object Oriented Programming
-### Week 1
+# Object Oriented Programming
+## Week 1
 NOTE: You can code in any prefered language. 
 
 Suggested Playlist: <https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-analyst>
-## **Tutorial to Follow** 
+### **Tutorial to Follow** 
 <https://www.youtube.com/watch?v=6T_HgnjoYwM>
 
 
@@ -59,15 +59,15 @@ Suggested Playlist: <https://www.coursera.org/learn/sql-data-science?specializat
 |**Topic**|**Coding References**|
 | :-: | :-: |
 |Classes and Objects|<https://www.geeksforgeeks.org/classes-objects-java/>|
-|Attributes & Constructors|<p>- <https://www.geeksforgeeks.org/constructors-in-java/></p><p>- https://www.w3schools.com/java/java\_class\_attributes.asp</p>|
-|Inheritance|<p>- https://www.geeksforgeeks.org/inheritance-in-java/</p><p>- https://www.geeksforgeeks.org/java-and-multiple-inheritance/</p><p>- https://www.geeksforgeeks.org/tag/java-inheritance/</p>|
-|Overloading|<p>- https://www.geeksforgeeks.org/overloading-in-java/</p><p>- https://www.geeksforgeeks.org/different-ways-method-overloading-java/</p>|
+|Attributes & Constructors|<p> <https://www.geeksforgeeks.org/constructors-in-java/></p><p> https://www.w3schools.com/java/java\_class\_attributes.asp</p>|
+|Inheritance|<p> https://www.geeksforgeeks.org/inheritance-in-java/</p><p> https://www.geeksforgeeks.org/java-and-multiple-inheritance/</p><p> https://www.geeksforgeeks.org/tag/java-inheritance/</p>|
+|Overloading|<p> https://www.geeksforgeeks.org/overloading-in-java/</p><p> https://www.geeksforgeeks.org/different-ways-method-overloading-java/</p>|
 |Overriding|https://www.geeksforgeeks.org/overriding-in-java/|
-|Polymorphism|<p>- https://www.geeksforgeeks.org/polymorphism-in-java/</p><p>- https://www.javatpoint.com/runtime-polymorphism-in-java</p>|
-|Data hiding|<p>- <https://www.geeksforgeeks.org/difference-between-data-hiding-and-abstraction-in-java/></p><p>- https://www.geeksforgeeks.org/encapsulation-in-java/</p>|
-|Regular Expression|<p>- <https://www.geeksforgeeks.org/regular-expressions-in-java/></p><p>- https://www.geeksforgeeks.org/tag/java-regular-expression/</p>|
+|Polymorphism|<p> https://www.geeksforgeeks.org/polymorphism-in-java/</p><p> https://www.javatpoint.com/runtime-polymorphism-in-java</p>|
+|Data hiding|<p> <https://www.geeksforgeeks.org/difference-between-data-hiding-and-abstraction-in-java/></p><p> https://www.geeksforgeeks.org/encapsulation-in-java/</p>|
+|Regular Expression|<p> <https://www.geeksforgeeks.org/regular-expressions-in-java/></p><p> https://www.geeksforgeeks.org/tag/java-regular-expression/</p>|
 
-## `   `Data Structures & Algorithms
+# Data Structures & Algorithms
 ## Week 2
 **Tutorial  to Follow**
 
@@ -91,69 +91,67 @@ Suggested Playlist: <https://www.coursera.org/learn/sql-data-science?specializat
 |Sorting Algorithms||
 
 
-## HTML/CSS/JS 
+# HTML/CSS/JS 
 ## Week 3
 Database Introduction: <https://www.youtube.com/watch?v=wR0jg0eQsZA>
 
 
 |**Topic**|**Course/Tutorial**|**Exercises**|
 | :-: | :-: | :-: |
-|What is HTML & What are HTML tags|<p><https://www.w3schools.com/whatis/whatis_html.asp></p>|<p>- <http://www.landofcode.com/html-exercises/></p><p>- https://www.w3schools.com/html/html\_exercises.asp</p>|
-|Basic CSS elements|<p>- <https://www.w3schools.com/css/default.asp></p><p>- https://web.dev/learn/css/</p>|<p>- <https://www.w3schools.com/css/css_exercises.asp></p><p>- https://github.com/TheOdinProject/css-exercises</p>|
+|What is HTML & What are HTML tags|<p><https://www.w3schools.com/whatis/whatis_html.asp></p>|<p> <http://www.landofcode.com/html-exercises/></p><p> https://www.w3schools.com/html/html\_exercises.asp</p>|
+|Basic CSS elements|<p> <https://www.w3schools.com/css/default.asp></p><p> https://web.dev/learn/css/</p>|<p> <https://www.w3schools.com/css/css_exercises.asp></p><p> https://github.com/TheOdinProject/css-exercises</p>|
 |Responsive HTML/CSS design|<p><https://www.youtube.com/watch?v=srvUrASNj0s></p>|<p><https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects></p><p>(recommended to be done after completing the CSS Flexbox & CSS Grid)</p>|
-|CSS Flexbox|<p>**https://www.youtube.com/watch?v=JJSoEo8JSnc**</p>|<p>- <https://flexboxfroggy.com/></p><p>- https://codingfantasy.com/games/flexboxadventure/play</p>|
-|CSS Grid|<p>[**https://www.youtube.com/watch?v=jV8B24rSN5o**](https://www.youtube.com/watch?v=jV8B24rSN5o)</p><p>**https://www.freecodecamp.org/news/learn-css-grid-by-building-5-layouts/**</p>|<p>- <https://cssgridgarden.com/></p><p>- https://codingfantasy.com/games/css-grid-attack/play</p>|
-##
+|CSS Flexbox|<p>**https://www.youtube.com/watch?v=JJSoEo8JSnc**</p>|<p> <https://flexboxfroggy.com/></p><p> https://codingfantasy.com/games/flexboxadventure/play</p>|
+|CSS Grid|<p>[**https://www.youtube.com/watch?v=jV8B24rSN5o**](https://www.youtube.com/watch?v=jV8B24rSN5o)</p><p>**https://www.freecodecamp.org/news/learn-css-grid-by-building-5-layouts/**</p>|<p> <https://cssgridgarden.com/></p><p> https://codingfantasy.com/games/css-grid-attack/play</p>|
+
 
 
 
 
 ## Week 4
-## Suggested Tutorials: <https://www.youtube.com/watch?v=ItYye9h_RXg&list=PL0eyrZgxdwhxNGMWROnaY35NLyEjTqcgB>
-##
-##
+Suggested Tutorials: <https://www.youtube.com/watch?v=ItYye9h_RXg&list=PL0eyrZgxdwhxNGMWROnaY35NLyEjTqcgB>
 
 |**Topic**|**Coding Exercises & References**|
 | :-: | :-: |
-|Variables & Types|<p>- <https://github.com/ga-wdi-exercises/js-data-types/blob/master/exercise.md></p><p>- <https://education.launchcode.org/intro-to-professional-web-dev/chapters/data-and-variables/exercises.html></p><p>- https://www.w3docs.com/exercise/javascript/9</p>|
-|Arrays|<p>- <https://dev.to/kauresss/some-js-array-exercises-for-beginners-9j8></p><p>- <https://www.rithmschool.com/courses/javascript/javascript-arrays-exercise></p><p>- https://www.w3resource.com/javascript-exercises/javascript-array-exercises.php</p>|
-|Operators|<p>- <https://www.w3docs.com/exercise/javascript/14></p><p>- https://www.learn-js.org/en/Operators</p>|
+|Variables & Types|<p> <https://github.com/ga-wdi-exercises/js-data-types/blob/master/exercise.md></p><p> <https://education.launchcode.org/intro-to-professional-web-dev/chapters/data-and-variables/exercises.html></p><p> https://www.w3docs.com/exercise/javascript/9</p>|
+|Arrays|<p> <https://dev.to/kauresss/some-js-array-exercises-for-beginners-9j8></p><p> <https://www.rithmschool.com/courses/javascript/javascript-arrays-exercise></p><p> https://www.w3resource.com/javascript-exercises/javascript-array-exercises.php</p>|
+|Operators|<p> <https://www.w3docs.com/exercise/javascript/14></p><p> https://www.learn-js.org/en/Operators</p>|
 |Conditions|https://www.teaching-materials.org/javascript/exercises/ifelse|
-|Loops|<p>- <https://contactmentor.com/js-loop-exercises-solutions/></p><p>- https://www.learn-js.org/en/Loops</p>|
+|Loops|<p> <https://contactmentor.com/js-loop-exercises-solutions/></p><p> https://www.learn-js.org/en/Loops</p>|
 |Objects|https://www.w3resource.com/javascript-exercises/javascript-object-exercises.php|
 |Object Constructors|https://github.com/joinpursuit/AC3.1/blob/master/lessons/javascript-advanced/object-prototypes/constructor-and-prototype-exercises.md|
-|Functions|<p>- <https://www.w3resource.com/javascript-exercises/javascript-functions-exercises.php></p><p>- https://cs.lmu.edu/~ray/notes/javascriptfunctions/</p>|
+|Functions|<p> <https://www.w3resource.com/javascript-exercises/javascript-functions-exercises.php></p><p> https://cs.lmu.edu/~ray/notes/javascriptfunctions/</p>|
 |Hoisting|https://kaledoux.medium.com/javascript-exercises-scope-hoisting-and-closures-423893501195|
-|Website DOM|<p>- <https://www.youtube.com/watch?v=EHF7xBUAmrQ></p><p>- https://www.w3resource.com/javascript-exercises/javascript-dom-exercises.php</p>|
+|Website DOM|<p> <https://www.youtube.com/watch?v=EHF7xBUAmrQ></p><p> https://www.w3resource.com/javascript-exercises/javascript-dom-exercises.php</p>|
 |Events & Event Listeners|https://oscarrobertrodriguez.github.io/exercisesModernDeveloper/javascript-events-in-depth/|
 |Popup boxes|https://www.learn-js.org/en/Pop-up\_Boxes|
 |Callbacks|https://crocoder.dev/blog/callbacks-exercises/|
-#
+
 ## Week 5
 
 
 
 |**Topic**|**Learning Resource**|**Coding Question**|
 | :-: | :-: | :-: |
-|Promises|https://www.youtube.com/watch?v=DHvZLI7Db8E|<p>- <https://www.codingame.com/playgrounds/347/javascript-promises-mastering-the-asynchronous/its-time-to-pratice-with-promises></p><p>- https://github.com/lighthouse-labs/promises-exercises</p>|
+|Promises|https://www.youtube.com/watch?v=DHvZLI7Db8E|<p> <https://www.codingame.com/playgrounds/347/javascript-promises-mastering-the-asynchronous/its-time-to-pratice-with-promises></p><p> https://github.com/lighthouse-labs/promises-exercises</p>|
 |Async/Await|https://www.youtube.com/watch?v=PoRJizFvM7s|https://dev.to/bmpickford/practical-beginners-guide-to-problems-with-js-async-await-200p|
-|Object Oriented JS|https://www.youtube.com/watch?v=PFmuCDHHpwk|<p>- <https://dev.to/nehal_mahida/oops-in-javascript-with-easy-to-understand-examples-2ppn></p><p>- https://hashnode.com/post/using-object-oriented-programming-to-solve-problems-in-javascript-ckxrh4rc300g20ns1enzj23fm</p>|
-|Function context|https://www.youtube.com/watch?v=\_JMXlGt3OSo|<p>- <https://www.learn-js.org/en/Function_Context></p><p>- https://dev.to/liaowow/take-this-quiz-understand-how-this-works-in-javascript-44dj</p>|
+|Object Oriented JS|https://www.youtube.com/watch?v=PFmuCDHHpwk|<p> <https://dev.to/nehal_mahida/oops-in-javascript-with-easy-to-understand-examples-2ppn></p><p> https://hashnode.com/post/using-object-oriented-programming-to-solve-problems-in-javascript-ckxrh4rc300g20ns1enzj23fm</p>|
+|Function context|https://www.youtube.com/watch?v=\_JMXlGt3OSo|<p> <https://www.learn-js.org/en/Function_Context></p><p> https://dev.to/liaowow/take-this-quiz-understand-how-this-works-in-javascript-44dj</p>|
 
-## ES6 (Modern JavaScript Essentials)
+# ES6 (Modern JavaScript Essentials)
 
-`	`Suggested Playlist: https://www.youtube.com/watch?v=NCwa\_xi0Uuc
+Suggested Playlist: https://www.youtube.com/watch?v=NCwa\_xi0Uuc
 ## Week 6
-##
+
 
 |**Topic**|**Coding Question/References**|
 | :-: | :-: |
 |let vs const|https://javascript.plainenglish.io/how-to-use-let-var-and-const-in-javascript-cdf42b48d70|
 |Objects|https://medium.com/@andrey.igorevich.borisov/10-javascript-exercises-with-objects-8942cc502754|
-|this keyword|<p>- <https://github.com/joinpursuit/AC3.1/blob/master/lessons/javascript-advanced/object-prototypes/this-keyword-exercises.md></p><p>- https://www.rithmschool.com/courses/advanced-javascript/javascript-keyword-this-exercises</p>|
-|Arrow functions|<p>- <https://www.learn-js.org/en/Arrow_Functions></p><p>- https://dev.to/sylwiavargas/transforming-functions-into-arrow-functions-practice-quiz-3ggc</p>|
-|Destructuring|<p>- <http://curric.rithmschool.com/springboard/exercises/js-destructuring/></p><p>- https://subscription.packtpub.com/book/application\_development/9781789800104/1/ch01lvl1sec10/destructuring-assignment</p>|
-|Spread operator|<p>- <http://curric.rithmschool.com/springboard/exercises/js-rest-spread/solution/index.html></p><p>- <https://github.com/joinpursuit/web-curriculum/blob/master/lessons/es6/spread-operator/spread-operator-practice-exercises.md></p><p>- https://www.codingame.com/playgrounds/7998/es6-tutorials-spread-operator-with-fun</p>|
+|this keyword|<p> <https://github.com/joinpursuit/AC3.1/blob/master/lessons/javascript-advanced/object-prototypes/this-keyword-exercises.md></p><p> https://www.rithmschool.com/courses/advanced-javascript/javascript-keyword-this-exercises</p>|
+|Arrow functions|<p> <https://www.learn-js.org/en/Arrow_Functions></p><p> https://dev.to/sylwiavargas/transforming-functions-into-arrow-functions-practice-quiz-3ggc</p>|
+|Destructuring|<p> <http://curric.rithmschool.com/springboard/exercises/js-destructuring/></p><p> https://subscription.packtpub.com/book/application\_development/9781789800104/1/ch01lvl1sec10/destructuring-assignment</p>|
+|Spread operator|<p> <http://curric.rithmschool.com/springboard/exercises/js-rest-spread/solution/index.html></p><p> <https://github.com/joinpursuit/web-curriculum/blob/master/lessons/es6/spread-operator/spread-operator-practice-exercises.md></p><p> https://www.codingame.com/playgrounds/7998/es6-tutorials-spread-operator-with-fun</p>|
 |Classes|https://www.w3resource.com/javascript-exercises/fundamental/index1.php|
 |Modules|https://subscription.packtpub.com/book/web-development/9781789800104/1/ch01lvl1sec11/classes-and-modules|
 #
@@ -181,7 +179,7 @@ Additional Links
 - Configuring Webpack: <https://www.youtube.com/watch?v=TzdEpgONurw>
 - Advanced webpack configurations: <https://www.youtube.com/watch?v=X1nxTjVDYdQ>
 
-`	`Webpack practice problems
+Webpack practice problems
 
 - <https://github.com/styopdev/webpack-interview-questions/blob/master/answers.md>
 - <https://www.fullstack.cafe/blog/basic-webpack-interview-questions-and-answers-2019>
@@ -189,7 +187,7 @@ Additional Links
 
 
 
-`	`**Linters & Formatters**
+**Linters & Formatters**
 
 - Motivation for Lint check: <https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.1841&rep=rep1&type=pdf>
 - What is ES Lint: <https://eslint.org/docs/about/>
@@ -199,7 +197,7 @@ Additional Links
 
 
 
-`	`Practice Problems
+Practice Problems
 
 - https://www.linkedin.com/learning/eslint-customizing-styles/using-the-exercise-files-for-this-course?autoAdvance=true&autoSkip=false&autoplay=true&resume=true
 
@@ -211,9 +209,6 @@ Week 8
 
 **Pick a framework**
 
-![](Aspose.Words.c25e8e79-76b9-4fca-9073-4991488be7c0.002.png)
-
-
 NOTE: For the sake of this roadmap we’ll be beginning out with React JS to set up our foundational understanding of modern day frontend javascript frameworks. This will indeed enable us to later subjectify the choice of frameworks depending on our use cases.
 
 **Suggested Playlist:**
@@ -221,29 +216,29 @@ NOTE: For the sake of this roadmap we’ll be beginning out with React JS to set
 <https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3>
 
 
-`	`Note: Use the links below for a structured approach to a project.
+Note: Use the links below for a structured approach to a project.
 
-`	`<https://github.com/taniarascia/react-tutorial>
+<https://github.com/taniarascia/react-tutorial>
 
-`	`[**https://github.com/101t/react-tutorial**](https://github.com/101t/react-tutorial)
+[**https://github.com/101t/react-tutorial**](https://github.com/101t/react-tutorial)
 
-`	`**Advanced Concepts in React**
+**Advanced Concepts in React**
 
-`	`**<https://github.com/enaqx/awesome-react>**
+**<https://github.com/enaqx/awesome-react>**
 
-`	`NOTE: Check this out once you complete the playlist and beginner level projects to get familiar to th React ecosystem
+NOTE: Check this out once you complete the playlist and beginner level projects to get familiar to th React ecosystem
 
 
 
 |**Topic**|**Practice Codes/Coding References**|
 | :-: | :-: |
-|React components|<p>- <https://daveceddia.com/react-practice-components/></p><p>- https://www.vskills.in/practice/react-components-questions</p>|
-|Code Splitting|<p>- <https://www.geeksforgeeks.org/code-splitting-in-react/></p><p>- https://www.freecodecamp.org/news/code-splitting-in-react-loadable-components/</p>|
-|Lazy Loading|<p>- <https://blog.logrocket.com/lazy-loading-components-in-react-16-6-6cea535c0b52/></p><p>- <https://www.tutorialspoint.com/lazy-loading-in-reactjs></p><p>- https://medium.com/@sujitsingh\_55772/lazy-loading-in-react-25bb2d6114e1</p>|
-|State|<p>- <https://buildwithreact.com/tutorial/state><br>  <https://levelup.gitconnected.com/learn-react-usestate-hook-a09ccf955537?gi=dbc5be7e1c9e></p><p>- <https://contactmentor.com/react-js-practice-exercises-solution/></p><p>- https://gist.github.com/ross-u/2ab3a3d1fb327c7c20c1473f1898d8e5</p>|
-|Props|<p>- Refactor (<https://gist.github.com/ross-u/2ab3a3d1fb327c7c20c1473f1898d8e5>) using props</p><p>- <http://nicholasjohnson.com/react/course/exercises/props/></p><p>- https://react.learncodingfree.org/props/exercise-for-props</p>|
-|Handlers|<p>- <https://www.codecademy.com/courses/react-102/lessons/react-forms/exercises/input-event-handler></p><p>- https://coderfiles.dev/blog/reactjs-coding-exercises/</p>|
-|Hooks|<p>- <https://codesandbox.io/s/91l58yqo></p><p>- <https://www.telerik.com/kendo-react-ui/react-hooks-guide/></p><p>- <https://github.com/FormidableLabs/september-react-training/blob/master/slides/05-hooks.md></p><p>- https://scrimba.com/scrim/cNga6zTR</p>|
+|React components|<p> <https://daveceddia.com/react-practice-components/></p><p> https://www.vskills.in/practice/react-components-questions</p>|
+|Code Splitting|<p> <https://www.geeksforgeeks.org/code-splitting-in-react/></p><p> https://www.freecodecamp.org/news/code-splitting-in-react-loadable-components/</p>|
+|Lazy Loading|<p> <https://blog.logrocket.com/lazy-loading-components-in-react-16-6-6cea535c0b52/></p><p> <https://www.tutorialspoint.com/lazy-loading-in-reactjs></p><p> https://medium.com/@sujitsingh\_55772/lazy-loading-in-react-25bb2d6114e1</p>|
+|State|<p> <https://buildwithreact.com/tutorial/state><br>  <https://levelup.gitconnected.com/learn-react-usestate-hook-a09ccf955537?gi=dbc5be7e1c9e></p><p> <https://contactmentor.com/react-js-practice-exercises-solution/></p><p> https://gist.github.com/ross-u/2ab3a3d1fb327c7c20c1473f1898d8e5</p>|
+|Props|<p> Refactor (<https://gist.github.com/ross-u/2ab3a3d1fb327c7c20c1473f1898d8e5>) using props</p><p> <http://nicholasjohnson.com/react/course/exercises/props/></p><p> https://react.learncodingfree.org/props/exercise-for-props</p>|
+|Handlers|<p> <https://www.codecademy.com/courses/react-102/lessons/react-forms/exercises/input-event-handler></p><p> https://coderfiles.dev/blog/reactjs-coding-exercises/</p>|
+|Hooks|<p> <https://codesandbox.io/s/91l58yqo></p><p> <https://www.telerik.com/kendo-react-ui/react-hooks-guide/></p><p> <https://github.com/FormidableLabs/september-react-training/blob/master/slides/05-hooks.md></p><p> https://scrimba.com/scrim/cNga6zTR</p>|
 
 
 ## Week 9
@@ -252,7 +247,7 @@ NOTE: For the sake of this roadmap we’ll be beginning out with React JS to set
 
 |**Topic**|**Resource**|**Practice Codes**|
 | :-: | :-: | :-: |
-|<h2>Lifting State up</h2>|<p><h2>- <https://www.youtube.com/watch?v=ahKsy1FS45k></h2></p><p>- https://youtu.be/ZluNj0-NpNI</p>|<p>- <https://shopify-1.gitbook.io/react/2.-intermediate/lifting-state-up></p><p>- https://codepen.io/albino/pen/gRJBYO</p>|
+|Lifting State up|<p> <https://www.youtube.com/watch?v=ahKsy1FS45k></p><p> https://youtu.be/ZluNj0-NpNI</p>|<p> <https://shopify-1.gitbook.io/react/2.-intermediate/lifting-state-up></p><p> https://codepen.io/albino/pen/gRJBYO</p>|
 |Contexts|Refer to playlist above|https://www.toptal.com/react/react-context-api|
 |High Order Components|Refer to playlist above|https://github.com/Asabeneh/30-Days-Of-React/blob/master/16\_Higher\_Order\_Component/16\_higher\_order\_component.md|
 |Synthetic Events|https://youtu.be/wi8RwDOCxhQ|https://www.rithmschool.com/courses/react-fundamentals/react-events|
@@ -261,40 +256,40 @@ NOTE: For the sake of this roadmap we’ll be beginning out with React JS to set
 Solve this after completing React: <https://github.com/sudheerj/reactjs-interview-questions>
 
 ## Week 10
-`	`**Redux**
+**Redux**
 **
 
 **
-`	`Suggested Playlist
+Suggested Playlist
 
-`	`<https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK>
-
-
+<https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK>
 
 
 
-`	`Project Based Tutorials:
+
+
+Project Based Tutorials:
 
 - <https://blog.isquaredsoftware.com/2016/10/practical-redux-part-0-introduction/>
 
-`	`PS: Couple Redux with React in all these projects
+PS: Couple Redux with React in all these projects
 
 |**Beginner Project**|**Use Case**|**Reference**|
 | :-: | :-: | :-: |
 |Basket App|Add/delete list of items in shopping basket|https://github.com/AliceWonderland/Basket-App|
-|Pet appointment planner|Schedule your pet’s appointment <br>(No Database or APIs)|<p><https://github.com/YahiaElTai/React-Redux-Projects-for-beginners/tree/master/pet-appointment></p><p>- This will be a little large project, make sure to cover .eslintrc checks with it and try creating custom build with webpack</p>|
+|Pet appointment planner|Schedule your pet’s appointment <br>(No Database or APIs)|<p><https://github.com/YahiaElTai/React-Redux-Projects-for-beginners/tree/master/pet-appointment></p><p> This will be a little large project, make sure to cover .eslintrc checks with it and try creating custom build with webpack</p>|
 
 
 ## Week 11
-`	`**Testing**
+**Testing**
 
-`	`We will be using the enterprise accepted libraries of enzyme and jest as testing library for test driven development of our react apps
-
-
+We will be using the enterprise accepted libraries of enzyme and jest as testing library for test driven development of our react apps
 
 
 
-`	`**Theory**
+
+
+**Theory**
 
 - What is testing?: https://www.guru99.com/software-testing-introduction-importance.html
 - What is unit testing?: https://smartbear.com/learn/automated-testing/what-is-unit-testing/
@@ -310,7 +305,7 @@ Solve this after completing React: <https://github.com/sudheerj/reactjs-intervie
 
 <https://www.youtube.com/watch?v=EgJZv9Iyj-E&list=PL-Db3tEF6pB8Am-IhCRgyGSxTalkDpUV_>
 
-`	`**Capstone Projects/Problems**
+**Capstone Projects/Problems**
 
 - [**https://github.com/simpletut/Testing-React-Redux-with-Jest-and-Enzyme**](https://github.com/simpletut/Testing-React-Redux-with-Jest-and-Enzyme)
 - [**https://github.com/twclark0/react-enzyme-jest**](https://github.com/twclark0/react-enzyme-jest)
@@ -330,25 +325,25 @@ In this week of learning, create mini projects encompassing the concepts you’v
 |Quiz App|React app which contains MCQs and make the user moves ahead as it answers correctly|https://github.com/Jatin-8898/react-quiz-app|
 
 
-## Databases
+# Databases
 
 ## Week 13
 
-`	`Database Introduction: <https://www.youtube.com/watch?v=wR0jg0eQsZA>
+Database Introduction: <https://www.youtube.com/watch?v=wR0jg0eQsZA>
 
-`	       `**SQL**
+**SQL**
 
 Suggested Playlist: <https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-analyst>
 
 
 |Topic|Topic/Tutorial|Exercises|
 | :-: | :-: | :-: |
-|SQL|<https://www.youtube.com/watch?v=HXV3zeQKqGY&feature=youtu.be><br>(ER Diagrams towards the end of the video are optional)|<p>- <https://www.hackerrank.com/domains/sql></p><p>- <https://www.w3schools.com/sql/exercise.asp></p><p>- <https://towardsdatascience.com/twenty-five-sql-practice-exercises-5fc791e24082></p>|
+|SQL|<https://www.youtube.com/watch?v=HXV3zeQKqGY&feature=youtu.be><br>(ER Diagrams towards the end of the video are optional)|<p> <https://www.hackerrank.com/domains/sql></p><p> <https://www.w3schools.com/sql/exercise.asp></p><p> <https://towardsdatascience.com/twenty-five-sql-practice-exercises-5fc791e24082></p>|
 |<h1>Week 3: Databases and SQL for Data Science with Python</h1>|String Pattern, Ranges and Operations on Sets<br><https://www.coursera.org/learn/sql-data-science/lecture/UPbqw/using-string-patterns-and-ranges>|<https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/blob/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/quiz%201%20(String%20Patterns%2C%20Ranges%2C%20Sorting%20and%20Grouping).PNG>|
-||<p>Functions, Multiple Tables and Sub-Queries<br><https://www.coursera.org/learn/sql-data-science/lecture/0bRtQ/built-in-database-functions></p>|<p>- Course Lab 1: <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/LAB></p><p>- Course Lab 2: <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/LAB%202></p><p>- <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/blob/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/quiz%202%20(Functions%2C%20Sub-Queries%2C%20Multiple%20Tables).PNG></p>|
-|<h1>Week 4: Database and SQL for Data Science with Python</h1>|Methods and Tools to access Database with Python |<p>- <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/blob/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/quiz%201(Database%20access%20from%20Python).PNG></p><p>- Course Lab 1: <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/Hands-on%20LAB%201></p><p>- Course Lab2: <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/Hands-on%20LAB%202></p>|
+||<p>Functions, Multiple Tables and Sub-Queries<br><https://www.coursera.org/learn/sql-data-science/lecture/0bRtQ/built-in-database-functions></p>|<p> Course Lab 1: <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/LAB></p><p> Course Lab 2: <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/LAB%202></p><p> <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/blob/master/Databases%20and%20SQL%20for%20Data%20Science/week%202/quiz%202%20(Functions%2C%20Sub-Queries%2C%20Multiple%20Tables).PNG></p>|
+|<h1>Week 4: Database and SQL for Data Science with Python</h1>|Methods and Tools to access Database with Python |<p> <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/blob/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/quiz%201(Database%20access%20from%20Python).PNG></p><p> Course Lab 1: <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/Hands-on%20LAB%201></p><p> Course Lab2: <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%203/Hands-on%20LAB%202></p>|
 |<h1>Week 5: Database and SQL for Data Science with Python</h1>|Hands on SQL Experience with Real world Data|<p>Assignment: <https://github.com/fsiddh/IBM-Data-Science-Professional-Certification/tree/master/Databases%20and%20SQL%20for%20Data%20Science/week%204/Assignment></p>|
-|SQL Project View|Take a Look at the Project Level Implementation of SQL|<p>- <https://github.com/samarth-p/College-ERP></p><p>- <https://github.com/honza/anosql></p>|
+|SQL Project View|Take a Look at the Project Level Implementation of SQL|<p> <https://github.com/samarth-p/College-ERP></p><p> <https://github.com/honza/anosql></p>|
 
 
 
