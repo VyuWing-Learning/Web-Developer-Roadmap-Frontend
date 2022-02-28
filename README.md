@@ -13,20 +13,20 @@
 </p>
 <br/>
 
-After multiple hours of research with a number of industry professionals currently working as Web Developer in the industry, we've aggregated all the best, **free and open source** learning material that they used to become a Web Developer. 
+After multiple hours of research with several industry professionals currently working as Web Developer in the industry, we've aggregated all the best, **free and open source** learning material that they used to become a Web Developer. 
 <br/><br/>
-The roadmap has been carefully and accurately broken down into a step by step action plan of theory and practice resources to make sure you never miss any aspect in your Web Development learning. 
+The roadmap has been carefully and accurately broken down into a step-by-step action plan of theory and practice resources to make sure you never miss any aspect in your Web Development learning. 
 
 
 ## Things to keep in mind while going through
 
-- The document can be read for various tables describing the content respectively. For each table, we have topics that need to be learnt, links from where it needs to be learnt alongside additional exercises/material that follows.
+- The document can be read for various tables describing the content respectively. For each table, we have topics that need to be learned, links from where it needs to be learned alongside additional exercises/material that follows.
 
-- The tutorials/courses that we describe are available for free and need not be bought. This document is in no way any paid promotion of the described tutorials/courses, we recommend them based on community feedback and experience. Similar applies for the links/exercises we follow.
+- The tutorials/courses that we describe are available for free and need not be bought. This document is in no way any paid promotion of the described tutorials/courses, we recommend them based on community feedback and experience. Similar applies to the links/exercises we follow.
 
-- The tutorials/courses, being highly rated in the community are found to provide a good understanding, however, in the cases otherwise, we in no manner suggest against looking/searching for other similar videos that helps the candidate's understanding.
+- The tutorials/courses, being highly rated in the community are found to provide a good understanding, however, in the cases otherwise, we in no manner suggest against looking/searching for other similar videos that help the candidate's understanding.
 
-- The Week Structure we illustrate may not be in complete balance with the candidate's timeline. Therefore, in the cases as these, we advise to consider the stipulated time frame 1 week/topic to be more than 1 (maybe 2 weeks/topic) as we strongly advise to not break the structure of tutorials/course action.
+- The Week Structure we illustrate may not be in complete balance with the candidate's timeline. Therefore, in cases like these, we advise considering the stipulated time frame 1 week/topic to be more than 1 (maybe 2 weeks/topic) as we strongly advise to not break the structure of tutorials/course action.
 
 - This roadmap assumes that you have a prior understanding of any programming language. 
 
@@ -92,7 +92,7 @@ Suggested Playlist: https://www.youtube.com/watch?v=NCwa\_xi0Uuc
 
 # Object Oriented Programming
 ## Week 4
-NOTE: You can code in any prefered language. 
+NOTE: You can code in any preferred language. 
 
 Suggested Playlist: <https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-analyst>
 ### **Tutorial to Follow** 
@@ -186,7 +186,7 @@ Webpack practice problems
 
 - Motivation for Lint check: <https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.1841&rep=rep1&type=pdf>
 - What is ES Lint: <https://eslint.org/docs/about/>
-- How ES Lint works: <https://eslint.org/docs/developer-guide/architecture> (Architecture of modern day ES Lint)
+- How ES Lint works: <https://eslint.org/docs/developer-guide/architecture> (Architecture of modern-day ES Lint)
 - Linting & formatting with ESLint in JS: <https://www.youtube.com/watch?v=slEtjbr8sVY>
 - Types of standard ES Lint configs (AirBnb): https://www.youtube.com/watch?v=SydnKbGc7W8&t=8s
 
@@ -209,7 +209,7 @@ Webpack practice problems
 <center>Source: Freshworks Blog</center>
 <br>
 
-NOTE: For the sake of this roadmap we’ll be beginning out with React JS to set up our foundational understanding of modern day frontend javascript frameworks. This will indeed enable us to later subjectify the choice of frameworks depending on our use cases.
+NOTE: For the sake of this roadmap we’ll be beginning out with React JS to set up our foundational understanding of modern-day frontend javascript frameworks. This will indeed enable us to later subjectify the choice of frameworks depending on our use cases.
 
 **Suggested Playlist:**
 
@@ -225,7 +225,7 @@ Note: Use the links below for a structured approach to a project.
 
 **<https://github.com/enaqx/awesome-react>**
 
-NOTE: Check this out once you complete the playlist and beginner level projects to get familiar to th React ecosystem
+NOTE: Check this out once you complete the playlist and beginner-level projects to get familiar with the React ecosystem
 
 
 
@@ -265,7 +265,7 @@ Suggested Playlist
 
 
 
-Project Based Tutorials:
+Project-Based Tutorials:
 
 - <https://blog.isquaredsoftware.com/2016/10/practical-redux-part-0-introduction/>
 
@@ -280,7 +280,7 @@ PS: Couple Redux with React in all these projects
 ## Week 11
 **Testing**
 
-We will be using the enterprise accepted libraries of enzyme and jest as testing library for test driven development of our react apps
+We will be using the enterprise accepted libraries of enzyme and jest as the testing library for test-driven development of our react apps
 
 
 
@@ -296,7 +296,7 @@ We will be using the enterprise accepted libraries of enzyme and jest as testing
 - What is beta testing?: https://www.guru99.com/alpha-beta-testing-demystified.html
 - What is system testing?: https://www.geeksforgeeks.org/system-testing/
 - What is performance testing?: <https://www.microfocus.com/en-us/what-is/performance-testing>
-- What is Agile framework of development: https://www.guru99.com/agile-scrum-extreme-testing.html
+- What is the Agile framework of development: https://www.guru99.com/agile-scrum-extreme-testing.html
 
 **Suggested Playlist**
 
@@ -312,7 +312,7 @@ We will be using the enterprise accepted libraries of enzyme and jest as testing
 
 Polish your skills with this additional concept based coding problems: ​​<https://github.com/Asabeneh/30-Days-Of-React>
 
-In this week of learning, create mini projects encompassing the concepts you’ve learned so far in React
+In this week of learning, create mini-projects encompassing the concepts you’ve learned so far in React
 
 |**Mini Projects**|**Use Case**|**Reference**|
 | :-: | :-: | :-: |
@@ -369,4 +369,4 @@ Additional Practice Problems:
 
 Once you have made till here, you can jump on to working on frontend projects and start applying to frontend roles. Also, do explore different frontend frameworks now and learn about them.
 <br/>
-For those who wanna continue on the journey of web development and want to tackle Backend and Devops too. Stay Tuned!
+For those who wanna continue on the journey of web development and want to tackle Backend and DevOps too. Stay Tuned!
