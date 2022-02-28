@@ -40,9 +40,58 @@ Advanced Git Exercises: <https://www.rithmschool.com/courses/git/git-github-adva
 
 <https://github.com/nnja/advanced-git/blob/master/exercises/Exercise8-ForksAndRemoteRepos.md>
 
+# Programming (JavaScript)
+## Week 1
+Suggested Tutorials: <https://www.youtube.com/watch?v=ItYye9h_RXg&list=PL0eyrZgxdwhxNGMWROnaY35NLyEjTqcgB>
+
+|**Topic**|**Coding Exercises & References**|
+| :-: | :-: |
+|Variables & Types|<p> <https://github.com/ga-wdi-exercises/js-data-types/blob/master/exercise.md></p><p> <https://education.launchcode.org/intro-to-professional-web-dev/chapters/data-and-variables/exercises.html></p><p> https://www.w3docs.com/exercise/javascript/9</p>|
+|Arrays|<p> <https://dev.to/kauresss/some-js-array-exercises-for-beginners-9j8></p><p> <https://www.rithmschool.com/courses/javascript/javascript-arrays-exercise></p><p> https://www.w3resource.com/javascript-exercises/javascript-array-exercises.php</p>|
+|Operators|<p> <https://www.w3docs.com/exercise/javascript/14></p><p> https://www.learn-js.org/en/Operators</p>|
+|Conditions|https://www.teaching-materials.org/javascript/exercises/ifelse|
+|Loops|<p> <https://contactmentor.com/js-loop-exercises-solutions/></p><p> https://www.learn-js.org/en/Loops</p>|
+|Objects|https://www.w3resource.com/javascript-exercises/javascript-object-exercises.php|
+|Object Constructors|https://github.com/joinpursuit/AC3.1/blob/master/lessons/javascript-advanced/object-prototypes/constructor-and-prototype-exercises.md|
+|Functions|<p> <https://www.w3resource.com/javascript-exercises/javascript-functions-exercises.php></p><p> https://cs.lmu.edu/~ray/notes/javascriptfunctions/</p>|
+|Hoisting|https://kaledoux.medium.com/javascript-exercises-scope-hoisting-and-closures-423893501195|
+|Website DOM|<p> <https://www.youtube.com/watch?v=EHF7xBUAmrQ></p><p> https://www.w3resource.com/javascript-exercises/javascript-dom-exercises.php</p>|
+|Events & Event Listeners|https://oscarrobertrodriguez.github.io/exercisesModernDeveloper/javascript-events-in-depth/|
+|Popup boxes|https://www.learn-js.org/en/Pop-up\_Boxes|
+|Callbacks|https://crocoder.dev/blog/callbacks-exercises/|
+
+## Week 2
+
+
+
+|**Topic**|**Learning Resource**|**Coding Question**|
+| :-: | :-: | :-: |
+|Promises|https://www.youtube.com/watch?v=DHvZLI7Db8E|<p> <https://www.codingame.com/playgrounds/347/javascript-promises-mastering-the-asynchronous/its-time-to-pratice-with-promises></p><p> https://github.com/lighthouse-labs/promises-exercises</p>|
+|Async/Await|https://www.youtube.com/watch?v=PoRJizFvM7s|https://dev.to/bmpickford/practical-beginners-guide-to-problems-with-js-async-await-200p|
+|Object Oriented JS|https://www.youtube.com/watch?v=PFmuCDHHpwk|<p> <https://dev.to/nehal_mahida/oops-in-javascript-with-easy-to-understand-examples-2ppn></p><p> https://hashnode.com/post/using-object-oriented-programming-to-solve-problems-in-javascript-ckxrh4rc300g20ns1enzj23fm</p>|
+|Function context|https://www.youtube.com/watch?v=\_JMXlGt3OSo|<p> <https://www.learn-js.org/en/Function_Context></p><p> https://dev.to/liaowow/take-this-quiz-understand-how-this-works-in-javascript-44dj</p>|
+
+# ES6 (Modern JavaScript Essentials)
+
+Suggested Playlist: https://www.youtube.com/watch?v=NCwa\_xi0Uuc
+## Week 3
+
+
+|**Topic**|**Coding Question/References**|
+| :-: | :-: |
+|let vs const|https://javascript.plainenglish.io/how-to-use-let-var-and-const-in-javascript-cdf42b48d70|
+|Objects|https://medium.com/@andrey.igorevich.borisov/10-javascript-exercises-with-objects-8942cc502754|
+|this keyword|<p> <https://github.com/joinpursuit/AC3.1/blob/master/lessons/javascript-advanced/object-prototypes/this-keyword-exercises.md></p><p> https://www.rithmschool.com/courses/advanced-javascript/javascript-keyword-this-exercises</p>|
+|Arrow functions|<p> <https://www.learn-js.org/en/Arrow_Functions></p><p> https://dev.to/sylwiavargas/transforming-functions-into-arrow-functions-practice-quiz-3ggc</p>|
+|Destructuring|<p> <http://curric.rithmschool.com/springboard/exercises/js-destructuring/></p><p> https://subscription.packtpub.com/book/application\_development/9781789800104/1/ch01lvl1sec10/destructuring-assignment</p>|
+|Spread operator|<p> <http://curric.rithmschool.com/springboard/exercises/js-rest-spread/solution/index.html></p><p> <https://github.com/joinpursuit/web-curriculum/blob/master/lessons/es6/spread-operator/spread-operator-practice-exercises.md></p><p> https://www.codingame.com/playgrounds/7998/es6-tutorials-spread-operator-with-fun</p>|
+|Classes|https://www.w3resource.com/javascript-exercises/fundamental/index1.php|
+|Modules|https://subscription.packtpub.com/book/web-development/9781789800104/1/ch01lvl1sec11/classes-and-modules|
+
+
 
 # Object Oriented Programming
-## Week 1
+## Week 4
 NOTE: You can code in any prefered language. 
 
 Suggested Playlist: <https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-analyst>
@@ -67,7 +116,7 @@ Suggested Playlist: <https://www.coursera.org/learn/sql-data-science?specializat
 |Regular Expression|<p> <https://www.geeksforgeeks.org/regular-expressions-in-java/></p><p> https://www.geeksforgeeks.org/tag/java-regular-expression/</p>|
 
 # Data Structures & Algorithms
-## Week 2
+## Week 5
 **Tutorial  to Follow**
 
 <https://www.youtube.com/watch?v=RBSGKlAvoiM>
@@ -90,8 +139,8 @@ Suggested Playlist: <https://www.coursera.org/learn/sql-data-science?specializat
 |Sorting Algorithms||
 
 
-# HTML/CSS/JS 
-## Week 3
+# HTML/CSS
+## Week 6
 Database Introduction: <https://www.youtube.com/watch?v=wR0jg0eQsZA>
 
 
@@ -100,60 +149,8 @@ Database Introduction: <https://www.youtube.com/watch?v=wR0jg0eQsZA>
 |What is HTML & What are HTML tags|<p><https://www.w3schools.com/whatis/whatis_html.asp></p>|<p> <http://www.landofcode.com/html-exercises/></p><p> https://www.w3schools.com/html/html\_exercises.asp</p>|
 |Basic CSS elements|<p> <https://www.w3schools.com/css/default.asp></p><p> https://web.dev/learn/css/</p>|<p> <https://www.w3schools.com/css/css_exercises.asp></p><p> https://github.com/TheOdinProject/css-exercises</p>|
 |Responsive HTML/CSS design|<p><https://www.youtube.com/watch?v=srvUrASNj0s></p>|<p><https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects></p><p>(recommended to be done after completing the CSS Flexbox & CSS Grid)</p>|
-|CSS Flexbox|<p>**https://www.youtube.com/watch?v=JJSoEo8JSnc**</p>|<p> <https://flexboxfroggy.com/></p><p> https://codingfantasy.com/games/flexboxadventure/play</p>|
-|CSS Grid|<p>[**https://www.youtube.com/watch?v=jV8B24rSN5o**](https://www.youtube.com/watch?v=jV8B24rSN5o)</p><p>**https://www.freecodecamp.org/news/learn-css-grid-by-building-5-layouts/**</p>|<p> <https://cssgridgarden.com/></p><p> https://codingfantasy.com/games/css-grid-attack/play</p>|
-
-
-
-
-
-## Week 4
-Suggested Tutorials: <https://www.youtube.com/watch?v=ItYye9h_RXg&list=PL0eyrZgxdwhxNGMWROnaY35NLyEjTqcgB>
-
-|**Topic**|**Coding Exercises & References**|
-| :-: | :-: |
-|Variables & Types|<p> <https://github.com/ga-wdi-exercises/js-data-types/blob/master/exercise.md></p><p> <https://education.launchcode.org/intro-to-professional-web-dev/chapters/data-and-variables/exercises.html></p><p> https://www.w3docs.com/exercise/javascript/9</p>|
-|Arrays|<p> <https://dev.to/kauresss/some-js-array-exercises-for-beginners-9j8></p><p> <https://www.rithmschool.com/courses/javascript/javascript-arrays-exercise></p><p> https://www.w3resource.com/javascript-exercises/javascript-array-exercises.php</p>|
-|Operators|<p> <https://www.w3docs.com/exercise/javascript/14></p><p> https://www.learn-js.org/en/Operators</p>|
-|Conditions|https://www.teaching-materials.org/javascript/exercises/ifelse|
-|Loops|<p> <https://contactmentor.com/js-loop-exercises-solutions/></p><p> https://www.learn-js.org/en/Loops</p>|
-|Objects|https://www.w3resource.com/javascript-exercises/javascript-object-exercises.php|
-|Object Constructors|https://github.com/joinpursuit/AC3.1/blob/master/lessons/javascript-advanced/object-prototypes/constructor-and-prototype-exercises.md|
-|Functions|<p> <https://www.w3resource.com/javascript-exercises/javascript-functions-exercises.php></p><p> https://cs.lmu.edu/~ray/notes/javascriptfunctions/</p>|
-|Hoisting|https://kaledoux.medium.com/javascript-exercises-scope-hoisting-and-closures-423893501195|
-|Website DOM|<p> <https://www.youtube.com/watch?v=EHF7xBUAmrQ></p><p> https://www.w3resource.com/javascript-exercises/javascript-dom-exercises.php</p>|
-|Events & Event Listeners|https://oscarrobertrodriguez.github.io/exercisesModernDeveloper/javascript-events-in-depth/|
-|Popup boxes|https://www.learn-js.org/en/Pop-up\_Boxes|
-|Callbacks|https://crocoder.dev/blog/callbacks-exercises/|
-
-## Week 5
-
-
-
-|**Topic**|**Learning Resource**|**Coding Question**|
-| :-: | :-: | :-: |
-|Promises|https://www.youtube.com/watch?v=DHvZLI7Db8E|<p> <https://www.codingame.com/playgrounds/347/javascript-promises-mastering-the-asynchronous/its-time-to-pratice-with-promises></p><p> https://github.com/lighthouse-labs/promises-exercises</p>|
-|Async/Await|https://www.youtube.com/watch?v=PoRJizFvM7s|https://dev.to/bmpickford/practical-beginners-guide-to-problems-with-js-async-await-200p|
-|Object Oriented JS|https://www.youtube.com/watch?v=PFmuCDHHpwk|<p> <https://dev.to/nehal_mahida/oops-in-javascript-with-easy-to-understand-examples-2ppn></p><p> https://hashnode.com/post/using-object-oriented-programming-to-solve-problems-in-javascript-ckxrh4rc300g20ns1enzj23fm</p>|
-|Function context|https://www.youtube.com/watch?v=\_JMXlGt3OSo|<p> <https://www.learn-js.org/en/Function_Context></p><p> https://dev.to/liaowow/take-this-quiz-understand-how-this-works-in-javascript-44dj</p>|
-
-# ES6 (Modern JavaScript Essentials)
-
-Suggested Playlist: https://www.youtube.com/watch?v=NCwa\_xi0Uuc
-## Week 6
-
-
-|**Topic**|**Coding Question/References**|
-| :-: | :-: |
-|let vs const|https://javascript.plainenglish.io/how-to-use-let-var-and-const-in-javascript-cdf42b48d70|
-|Objects|https://medium.com/@andrey.igorevich.borisov/10-javascript-exercises-with-objects-8942cc502754|
-|this keyword|<p> <https://github.com/joinpursuit/AC3.1/blob/master/lessons/javascript-advanced/object-prototypes/this-keyword-exercises.md></p><p> https://www.rithmschool.com/courses/advanced-javascript/javascript-keyword-this-exercises</p>|
-|Arrow functions|<p> <https://www.learn-js.org/en/Arrow_Functions></p><p> https://dev.to/sylwiavargas/transforming-functions-into-arrow-functions-practice-quiz-3ggc</p>|
-|Destructuring|<p> <http://curric.rithmschool.com/springboard/exercises/js-destructuring/></p><p> https://subscription.packtpub.com/book/application\_development/9781789800104/1/ch01lvl1sec10/destructuring-assignment</p>|
-|Spread operator|<p> <http://curric.rithmschool.com/springboard/exercises/js-rest-spread/solution/index.html></p><p> <https://github.com/joinpursuit/web-curriculum/blob/master/lessons/es6/spread-operator/spread-operator-practice-exercises.md></p><p> https://www.codingame.com/playgrounds/7998/es6-tutorials-spread-operator-with-fun</p>|
-|Classes|https://www.w3resource.com/javascript-exercises/fundamental/index1.php|
-|Modules|https://subscription.packtpub.com/book/web-development/9781789800104/1/ch01lvl1sec11/classes-and-modules|
-
+|CSS Flexbox|<p>https://www.youtube.com/watch?v=JJSoEo8JSnc</p>|<p> <https://flexboxfroggy.com/></p><p> https://codingfantasy.com/games/flexboxadventure/play</p>|
+|CSS Grid|<p>[https://www.youtube.com/watch?v=jV8B24rSN5o](https://www.youtube.com/watch?v=jV8B24rSN5o)</p><p>https://www.freecodecamp.org/news/learn-css-grid-by-building-5-layouts/</p>|<p> <https://cssgridgarden.com/></p><p> https://codingfantasy.com/games/css-grid-attack/play</p>|
 
 # Frontend
 
@@ -209,12 +206,14 @@ Webpack practice problems
 
 ![Comparison Table](https://i.ibb.co/gjqx4h0/Screenshot-2022-02-21-at-7-47-47-PM.png)
 
+<center>Source: Freshworks Blog</center>
+<br>
+
 NOTE: For the sake of this roadmap we’ll be beginning out with React JS to set up our foundational understanding of modern day frontend javascript frameworks. This will indeed enable us to later subjectify the choice of frameworks depending on our use cases.
 
 **Suggested Playlist:**
 
 <https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3>
-
 
 Note: Use the links below for a structured approach to a project.
 
@@ -256,10 +255,8 @@ NOTE: Check this out once you complete the playlist and beginner level projects 
 Solve this after completing React: <https://github.com/sudheerj/reactjs-interview-questions>
 
 ## Week 10
-**Redux**
-**
+## Redux
 
-**
 Suggested Playlist
 
 <https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK>
